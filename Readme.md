@@ -1,8 +1,6 @@
-<h3 align="center">❤️ A passionate software engineer ❤️ </h3> 
+<h3 align="center">❤️ A passionate software developer ❤️ </h3> 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stackcraft55&theme=radical&hide_border=true&row=1" alt="stackcraft55" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@cryptoguy55](https://medium.com/@cryptoguy55)
 
 <div align="center">
   <a href="https://github.com/stackcraft55">
