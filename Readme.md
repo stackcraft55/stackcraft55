@@ -1,7 +1,7 @@
 <h3 align="center">❤️ A passionate software developer ❤️ </h3> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stackcraft55)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stackcraft55&theme=radical&hide_border=true&row=1" alt="stackcraft55" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=stackcraft55&theme=radical&hide_border=true&row=1" alt="stackcraft55" /></a> </p>
 
 <div align="center">
   <a href="https://github.com/stackcraft55">
