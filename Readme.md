@@ -3,11 +3,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=stackcraft55&theme=radical&hide_border=true&row=1" alt="stackcraft55" /></a> </p>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/stackcraft55">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stackcraft55&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackcraft55&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
